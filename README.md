@@ -1,4 +1,6 @@
-# Chess Competition Platform
+# Chess Competition Platform 
+
+Note: This is an application written in 2024 from scratch with zero use of Artificial Intelligence.
 
 The application has been extracted from the original notebook into connected Python modules. The notebook remains as the original reference; run the Python launcher to use the refactored application.
 
